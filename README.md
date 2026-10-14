@@ -24,4 +24,4 @@ creates a dynamic shared library named ```libmath.dylib```
 
 
 ## TODO
-## Add a multiple method to the math library that multiplies two numbers
+Add a multiply method to the math library that multiplies two numbers
